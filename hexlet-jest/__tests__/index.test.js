@@ -5,8 +5,6 @@ test('reverse', () => {
   expect(reverse('')).toEqual('');
 });
 
-
-
 /*
 /
 /nikolay@nikolay:~/hexlet-js/hexlet-jest$ node --experimental-vm-modules "node_modules/.bin/jest"
